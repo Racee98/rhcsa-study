@@ -1,0 +1,10 @@
+# Personal logs — not for sharing
+*_log.txt
+*.log
+
+# Day counter marker
+.rhcsa_start
+.study_start
+
+# notes folder (personal)
+notes
