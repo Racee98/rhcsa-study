@@ -1,4 +1,4 @@
-# RHCSA Study Bot 🎯
+# RHCSA Study Bot 
 
 > Automated daily exam prep for the Red Hat Certified System Administrator (EX200) exam — powered by Claude AI.
 
@@ -7,7 +7,7 @@
 Every time you open WSL, it generates a fresh RHCSA-focused practice session based on where you are in your studies. It rotates through real EX200 exam objectives and adapts difficulty over time:
 
 | Days | Mode | Style |
-|------|------|-------|
+
 | 1–7  | Foundation | Concepts + key commands |
 | 8–20 | Practice | Hands-on exam-style tasks |
 | 21+  | Exam Simulation | Pass/fail graded, no hints |
@@ -90,8 +90,8 @@ source ~/.bashrc
 
 ## Files
 
-| File | Description |
-|------|-------------|
+| File | Description 
+
 | `claude_rhcsa.sh` | Main RHCSA exam prep script |
 | `claude_daily_general.sh` | Original general Linux sysadmin script (kept as backup) |
 
